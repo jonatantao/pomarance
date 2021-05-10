@@ -4,7 +4,7 @@
   "description": "Simple test",
   "keywords": [],
   "homepage": "https://github.com/jonatantao/pomarance",
-  "license": "GNU GPLv3",
+  "license": "MIT",
   "authors": [
     {
       "name": "Janko Hrasko",
