@@ -2,7 +2,7 @@
   "name": "jonatantao/pomarance",
   "type": "template",
   "description": "Simple test",
-  "keywords": [],
+  "keywords": ["template","webapp"],
   "homepage": "https://github.com/jonatantao/pomarance",
   "license": "MIT",
   "authors": [
