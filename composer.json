@@ -1,0 +1,7 @@
+{
+  "name": "jonatantao/pomarance",
+  "description": "Simple test",
+  "require": {
+      "php": ">=7.4"
+  }
+}
